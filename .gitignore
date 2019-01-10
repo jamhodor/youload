@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+
+notes.txt
+
+*.html
+
+/test
+
+test.py
+
+/venv
