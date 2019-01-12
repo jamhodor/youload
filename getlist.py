@@ -11,7 +11,7 @@ list_name = input("Please enter the name of the html file: ")
 
 dlocation = input("Press 1 for default path and 2 to select path: ")
 if dlocation == "1":
-    dlocation = os.getcwd() + "/test"
+    dlocation = os.getcwd()
 if dlocation == "2":
     dlocation = input("Please enter the download path: ")
     #print(set([item for item in os.listdir(dlocation) if not re.match("\.", item)]))

@@ -1,0 +1,5 @@
+beautifulsoup4==4.7.1
+bs4==0.0.1
+pafy==0.5.4
+soupsieve==1.7
+youtube-dl==2019.1.10
